@@ -2,7 +2,7 @@
 
 Esse é um Sistema Operacional baseado no Ubuntu Linux 22.04.2 LTS desenvolvido por estudantes do Instituto Federal de Santa Catarina com o objetivo de facilitar o aprendizado de programação de estudantes que possuem deficiencias visuais.
 
-## **No momento, faça o downlaod da iso através do link: https://www.jetdrop.net/F7eqIowP8Za#CwGgzAHCCsVgTCYA2GJ7AIwk6TAGReKDdXJKTWHMadaMAfWQCUAhAZwGUBHNgFwDuHAJ4A5ACoAzAA4ANNgEMAFi34AvAMaK2AaxEBhAOIBLACIBpIA **
+## **Faça o downlaod da iso através do link: https://www.jetdrop.net/F7eqIowP8Za#CwGgzAHCCsVgTCYA2GJ7AIwk6TAGReKDdXJKTWHMadaMAfWQCUAhAZwGUBHNgFwDuHAJ4A5ACoAzAA4ANNgEMAFi34AvAMaK2AaxEBhAOIBLACIBpIA **
 
 ## Diferencial do sistema:
 * Leitor de tela integrado ao terminal de comandos mais responsível utilizando TDSR (https://github.com/tspivey/tdsr);
